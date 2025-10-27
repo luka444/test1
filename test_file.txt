@@ -1,1 +1,2 @@
 this is test_file.txt
+this is new comment.
